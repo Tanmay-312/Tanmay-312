@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanmay Jain</h1>
 <h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on improving skills in **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Cloud and DevOps**
 
-- 🤝 I’m looking for help (mobile development) with [Java McDonalds App](https://github.com/Tanmay-312/McDonalds-Clone)
+- 🤝 I’m looking for help (mobile development) with my [Java McDonalds App](https://github.com/Tanmay-312/McDonalds-Clone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmay-312/](https://github.com/Tanmay-312/)
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Cloud, DevOps, Databases, Java backend, Python and Machine learning basics**
 
-- 📫 How to reach me **jain2002tj@gmail.com**
+- 📫 To reach me for anything, mail me at **jain2002tj@gmail.com** or connect with me via social media (links below)
 
-- ⚡ Fun fact **I think I am still newbie.**
+- ⚡ Fun fact - **I think, I am still newbie.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
