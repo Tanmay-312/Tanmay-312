@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanmay-312/](https://github.com/Tanmay-312/)
 
-- 📝 I regularly add JAVA code of daily questions of LeetCode and GeeksForGeeks on [Problem-Of-The-Day]((https://github.com/Tanmay-312/Problem-Of-The-Day))
+- 📝 I regularly add JAVA code of daily questions of LeetCode and GeeksForGeeks on [Problem-Of-The-Day](https://github.com/Tanmay-312/Problem-Of-The-Day)
 
 - 💬 Ask me about **Cloud, DevOps, Databases, Java backend, Python and Machine learning basics**
 
