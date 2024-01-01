@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help (mobile development) with my [Java McDonalds App](https://github.com/Tanmay-312/McDonalds-Clone)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tanmay-312/](https://github.com/Tanmay-312/)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/Tanmay-312?tab=repositories)
 
 - 📝 I regularly add JAVA code of daily questions of LeetCode and GeeksForGeeks on [Problem-Of-The-Day](https://github.com/Tanmay-312/Problem-Of-The-Day)
 
