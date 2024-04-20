@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Jain</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer from India</h3>
+<h3 align="center">A passionate Backend and DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-312&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-312" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on improving skills in **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Cloud and DevOps**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 🤝 I’m looking for help (mobile development) with my [Java McDonalds App](https://github.com/Tanmay-312/McDonalds-Clone)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly add JAVA code of daily questions of LeetCode and GeeksForGeeks on [Problem-Of-The-Day](https://github.com/Tanmay-312/Problem-Of-The-Day)
 
-- 💬 Ask me about **Cloud, DevOps, Databases, Java backend, Python and Machine learning basics**
+- 💬 Ask me about **Go backend, Java backend, Databases, DevOps, Python and Machine learning basics**
 
 - 📫 To reach me for anything, mail me at **jain2002tj@gmail.com** or connect with me via social media (links below)
 
